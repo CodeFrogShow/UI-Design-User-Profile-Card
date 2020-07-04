@@ -1,4 +1,4 @@
-# User-Profile-Card
+# UI-Design-User-Profile-Card
 
 This is source code of Youtube Channel Video Tutorial.
 
